@@ -13,7 +13,7 @@ Sou apaixonada por tecnologia, gosto de desafios, aprender, gosto muito do desen
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maarinabessa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-bessa-768959194/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=marinabessa09@gmail.com&logoColor=white)
+<a href = "marinabessa09@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ![Marina GitHub stats](https://github-readme-stats.vercel.app/api?username=marinabessa14&show_icons=true&theme=radical)

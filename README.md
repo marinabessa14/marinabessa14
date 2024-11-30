@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Sou apaixonada por tecnologia, gosto de desafios, aprender, gosto muito do desenvolvimento FrontEnd, cursei Sistemas de Informação, atualmente meus conhecimentos são JavaScript, HTML/CSS, React (Intermediário), e o figma (básico), e gosto muito do framework Bootstrap, quero muito crescer na área do FrontEnd, e aprender cada dia mais.
+Sou apaixonada por tecnologia, gosto de desafios, aprender, gosto muito do desenvolvimento FrontEnd, formada em Sistemas de Informação, atualmente meus conhecimentos são JavaScript, HTML/CSS, React (Intermediário), e o Bootstrap, quero muito crescer na área do FrontEnd, e aprender cada dia mais.
 
 
 ## Contatos:

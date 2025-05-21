@@ -6,14 +6,24 @@
 Here are some ideas to get you started:
 -->
 
-Sou apaixonada por tecnologia, gosto de desafios, aprender, gosto muito do desenvolvimento FrontEnd, formada em Sistemas de Informação, atualmente meus conhecimentos são JavaScript, HTML/CSS, React (Intermediário), e o Bootstrap, quero muito crescer na área do FrontEnd, e aprender cada dia mais.
+Desenvolvedora Front-end apaixonada por tecnologia e motivada por desafios. Sou formada em Sistemas de Informação e adoro transformar ideias em interfaces digitais intuitivas e eficientes.
 
+Minhas principais habilidades incluem:
+
+JavaScript, HTML/CSS: A base para a criação de experiências web robustas.
+
+React (Intermediário): Construindo componentes reutilizáveis e interfaces dinâmicas.
+
+Bootstrap: Desenvolvendo designs responsivos e modernos com agilidade.
+
+Estou sempre em busca de novos conhecimentos e oportunidades para crescer e aprimorar minhas competências na área de Front-end, contribuindo ativamente para projetos inovadores.
+
+----------
 
 ## Contatos:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maarinabessa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-bessa-768959194/)
-
 
 
 ![Marina GitHub stats](https://github-readme-stats.vercel.app/api?username=marinabessa14&show_icons=true&theme=radical)

@@ -28,6 +28,7 @@ Estou sempre em busca de novos conhecimentos e oportunidades para crescer e apri
 
 ![Marina GitHub stats](https://github-readme-stats.vercel.app/api?username=marinabessa14&show_icons=true&theme=radical)
 
+------------
 ## Tecnologias e Ferramentas que utilizo no dia a dia
 
 <div style="display: inline-block"><br/>
